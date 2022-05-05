@@ -1,0 +1,325 @@
+"aa" = (/turf/simulated/floor/plating/asteroid,/area)
+"ab" = (/turf/unsimulated/wall,/area)
+"ac" = (/turf/unsimulated/wall{desc = "Why it no open!"; icon = 'icons/obj/doors/blastdoor.dmi'; icon_state = "pdoor1"; name = "Arena Blast Door"},/area)
+"ad" = (/turf/simulated/wall/r_wall,/area)
+"ae" = (/turf/simulated/floor{icon_state = "darknew"},/area)
+"af" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{icon_state = "darknew"},/area)
+"ag" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{icon_state = "darknew"},/area)
+"ah" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor{dir = 8; icon_state = "darknewset"},/area)
+"ai" = (/turf/simulated/wall,/area)
+"aj" = (/obj/structure/filingcabinet/filingcabinet,/turf/simulated/floor{icon_state = "wood4"},/area)
+"ak" = (/turf/simulated/floor{icon_state = "wood4"},/area)
+"al" = (/obj/machinery/light/small{dir = 1},/turf/simulated/floor{icon_state = "wood4"},/area)
+"am" = (/turf/simulated/floor/grass,/area)
+"an" = (/obj/machinery/light/spot{dir = 1},/turf/simulated/floor/grass,/area)
+"ao" = (/obj/machinery/light/small{dir = 1},/obj/machinery/hydroponics/soil,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{dir = 1; icon_state = "green"},/area)
+"ap" = (/obj/machinery/hydroponics/soil,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{dir = 1; icon_state = "green"},/area)
+"aq" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt,/obj/item/seeds/wheatseed,/obj/item/seeds/cornseed,/obj/item/seeds/bananaseed,/obj/item/seeds/carrotseed,/turf/simulated/floor{dir = 5; icon_state = "green"},/area)
+"ar" = (/obj/structure/cable{icon_state = "0-4"; d2 = 4},/obj/structure/cable{icon_state = "0-2"; pixel_y = 1; d2 = 2},/obj/machinery/light/small{dir = 8},/turf/simulated/floor/plating,/area)
+"as" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/simulated/floor/plating,/area)
+"at" = (/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/structure/extinguisher_cabinet{pixel_x = -5; pixel_y = 30},/obj/item/weapon/storage/box/lights/bulbs,/turf/simulated/floor/plating,/area)
+"au" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{dir = 8; icon_state = "darknewset"},/area)
+"av" = (/turf/simulated/floor{icon_state = "platenew"},/area)
+"aw" = (/turf/simulated/floor{dir = 8; icon_state = "darknewset"},/area)
+"ax" = (/obj/structure/stool/bed/chair{dir = 4},/turf/simulated/floor{icon_state = "wood4"},/area)
+"ay" = (/obj/structure/table,/turf/simulated/floor{icon_state = "wood4"},/area)
+"az" = (/obj/effect/decal/cleanable/dirt,/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor{icon_state = "wood4"},/area)
+"aA" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{icon_state = "wood4"},/area)
+"aB" = (/turf/simulated/floor,/area)
+"aC" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/greenglow,/turf/simulated/floor,/area)
+"aD" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{icon_state = "green"; dir = 4},/area)
+"aE" = (/obj/machinery/power/apc{dir = 2; name = "Mining West Outpost APC"; pixel_x = 1; pixel_y = -23},/obj/structure/cable,/turf/simulated/floor/plating,/area)
+"aF" = (/obj/machinery/power/terminal{dir = 4},/turf/simulated/floor/plating,/area)
+"aG" = (/obj/machinery/power/smes,/obj/structure/cable,/turf/simulated/floor/plating,/area)
+"aH" = (/obj/structure/closet,/obj/item/clothing/under/lawyer/bluesuit,/turf/simulated/floor{icon_state = "wood4"},/area)
+"aI" = (/obj/effect/decal/cleanable/dirt,/obj/structure/table,/obj/item/weapon/pen/blue,/turf/simulated/floor{icon_state = "wood4"},/area)
+"aJ" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/table,/obj/item/weapon/storage/briefcase,/turf/simulated/floor{icon_state = "wood4"},/area)
+"aK" = (/obj/machinery/seed_extractor,/turf/simulated/floor,/area)
+"aL" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/chips,/turf/simulated/floor,/area)
+"aM" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/reagent_containers/glass/bucket,/turf/simulated/floor{icon_state = "green"; dir = 4},/area)
+"aN" = (/obj/structure/sign/securearea{desc = "A warning sign which reads 'HIGH VOLTAGE'"; icon_state = "shock"; name = "HIGH VOLTAGE"; pixel_y = 0},/turf/simulated/wall,/area)
+"aO" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/plating,/area)
+"aP" = (/obj/machinery/door/airlock/silver,/turf/simulated/floor{icon_state = "wood4"},/area)
+"aQ" = (/obj/structure/grille,/obj/structure/window/basic{dir = 1},/obj/structure/window/basic,/turf/simulated/floor/plating,/area)
+"aR" = (/turf/simulated/floor{dir = 1; icon_state = "darknewset"},/area)
+"aS" = (/obj/item/stack/rods,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{dir = 1; icon_state = "darknewset"},/area)
+"aT" = (/obj/machinery/door/airlock,/turf/simulated/floor,/area)
+"aU" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{icon_state = "platenew"},/area)
+"aV" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{dir = 4; icon_state = "darknewset"},/area)
+"aW" = (/obj/machinery/light/spot{dir = 4},/turf/simulated/floor{icon_state = "platenew"},/area)
+"aX" = (/turf/simulated/floor{dir = 10; icon_state = "darknewset"},/area)
+"aY" = (/obj/effect/decal/cleanable/blood/oil,/turf/simulated/floor{dir = 2; icon_state = "darknewset"},/area)
+"aZ" = (/turf/simulated/floor{dir = 2; icon_state = "darknewset"},/area)
+"ba" = (/obj/effect/decal/cleanable/molten_item,/turf/simulated/floor{dir = 2; icon_state = "darknewset"},/area)
+"bb" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{dir = 2; icon_state = "darknewset"},/area)
+"bc" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{dir = 6; icon_state = "darknewset"},/area)
+"bd" = (/obj/item/stack/rods,/turf/simulated/floor{dir = 8; icon_state = "darknewset"},/area)
+"be" = (/turf/simulated/floor{dir = 9; icon_state = "darknewset"},/area)
+"bf" = (/obj/machinery/light/spot,/turf/simulated/floor{dir = 1; icon_state = "darknewset"},/area)
+"bg" = (/turf/simulated/floor{dir = 2; icon_state = "platenew1"},/area)
+"bh" = (/obj/machinery/door/morgue{dir = 2},/turf/simulated/floor,/area)
+"bi" = (/obj/machinery/door/morgue{dir = 2},/turf/simulated/floor{icon_state = "showroomfloor"},/area)
+"bj" = (/obj/item/trash/chips,/turf/simulated/floor{icon_state = "grimy"},/area)
+"bk" = (/obj/machinery/light/small{dir = 1},/turf/simulated/floor{icon_state = "grimy"},/area)
+"bl" = (/obj/machinery/bookbinder,/turf/simulated/floor{icon_state = "grimy"},/area)
+"bm" = (/turf/simulated/floor{icon_state = "grimy"},/area)
+"bn" = (/obj/item/weapon/shard{icon_state = "small"},/turf/simulated/floor{icon_state = "platenew"},/area)
+"bo" = (/obj/structure/stool/bed/chair/office/dark,/obj/effect/decal/cleanable/cobweb,/turf/simulated/floor,/area)
+"bp" = (/obj/structure/stool/bed/chair/office/dark,/obj/effect/decal/remains/human,/turf/simulated/floor,/area)
+"bq" = (/obj/item/device/assembly/mousetrap/armed,/turf/simulated/floor,/area)
+"br" = (/obj/structure/largecrate,/turf/simulated/floor,/area)
+"bs" = (/obj/machinery/door/morgue{dir = 2},/turf/simulated/floor{icon_state = "greyfloor"},/area)
+"bt" = (/turf/simulated/floor{icon_state = "greyfloor"},/area)
+"bu" = (/obj/structure/sink{pixel_y = 30; tag = "30"},/turf/simulated/floor{icon_state = "greyfloor"},/area)
+"bv" = (/obj/machinery/shower{pixel_y = 26; tag = "26"},/turf/simulated/floor{icon_state = "showroomfloor"},/area)
+"bw" = (/obj/machinery/shower{pixel_y = 26; tag = "26"},/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor{icon_state = "showroomfloor"},/area)
+"bx" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/spot{dir = 4},/turf/simulated/floor{dir = 8; icon_state = "darknewset"},/area)
+"by" = (/obj/structure/stool/bed/chair{dir = 8},/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor{icon_state = "grimy"},/area)
+"bz" = (/obj/structure/barricade/wooden,/turf/simulated/floor{icon_state = "platenew"},/area)
+"bA" = (/obj/machinery/computer/rust_radiation_monitor,/turf/simulated/floor,/area)
+"bB" = (/obj/machinery/computer/rust_gyrotron_controller,/turf/simulated/floor,/area)
+"bC" = (/obj/structure/table,/obj/item/weapon/implanter/adrenalin,/turf/simulated/floor,/area)
+"bD" = (/obj/effect/landmark{name = "Observer-Start"},/turf/simulated/floor{icon_state = "greyfloor"},/area)
+"bE" = (/obj/machinery/light/small,/turf/simulated/floor{icon_state = "greyfloor"},/area)
+"bF" = (/obj/machinery/door/morgue{dir = 2},/turf/simulated/floor{icon_state = "freezerfloor"},/area)
+"bG" = (/obj/machinery/light/small,/turf/simulated/floor{icon_state = "showroomfloor"},/area)
+"bH" = (/obj/structure/toilet{dir = 8},/turf/simulated/floor{icon_state = "showroomfloor"},/area)
+"bI" = (/obj/machinery/door/window/southleft,/turf/simulated/floor{icon_state = "grimy"},/area)
+"bJ" = (/obj/structure/table/reinforced,/obj/item/clothing/glasses/night,/obj/structure/window/basic,/turf/simulated/floor{icon_state = "grimy"},/area)
+"bK" = (/obj/structure/table/reinforced,/obj/item/clothing/glasses/regular/hipster,/obj/machinery/door/window/southleft,/turf/simulated/floor{icon_state = "grimy"},/area)
+"bL" = (/obj/structure/table/reinforced,/obj/item/clothing/glasses/science,/obj/structure/window/basic,/turf/simulated/floor{icon_state = "grimy"},/area)
+"bM" = (/obj/machinery/computer/rust_core_control,/turf/simulated/floor,/area)
+"bN" = (/obj/structure/computerframe{anchored = 1},/turf/simulated/floor,/area)
+"bO" = (/obj/effect/landmark/start{name = "Assistant"},/turf/simulated/floor,/area)
+"bP" = (/obj/structure/table,/obj/item/weapon/storage/belt/handmade,/turf/simulated/floor,/area)
+"bQ" = (/obj/machinery/door/airlock/glass,/turf/simulated/floor{icon_state = "floorgrime"},/area)
+"bR" = (/turf/simulated/floor{icon_state = "floorgrime"},/area)
+"bS" = (/obj/structure/stool/bed/chair/office/dark{dir = 1},/turf/simulated/floor,/area)
+"bT" = (/obj/item/bluespace_crystal,/obj/item/bluespace_crystal,/obj/item/bluespace_crystal,/obj/structure/table,/turf/simulated/floor,/area)
+"bU" = (/obj/structure/table,/turf/simulated/floor,/area)
+"bV" = (/obj/item/weapon/cable_coil/random,/turf/simulated/floor{icon_state = "platenew"},/area)
+"bW" = (/obj/structure/table,/obj/item/clothing/glasses/sunglasses,/obj/structure/window/basic{dir = 8},/obj/structure/window/basic{dir = 1},/obj/structure/window/basic,/turf/simulated/floor,/area)
+"bX" = (/obj/machinery/artillerycontrol,/turf/simulated/floor,/area)
+"bY" = (/obj/effect/decal/cleanable/blood/oil,/turf/simulated/floor,/area)
+"bZ" = (/obj/machinery/light/small,/turf/simulated/floor,/area)
+"ca" = (/obj/effect/decal/cleanable/molten_item,/turf/simulated/floor{dir = 8; icon_state = "darknewset"},/area)
+"cb" = (/obj/item/stack/rods,/turf/simulated/floor,/area)
+"cc" = (/obj/machinery/power/rust_core,/turf/simulated/floor,/area)
+"cd" = (/obj/machinery/power/port_gen/pacman/super,/turf/simulated/floor,/area)
+"ce" = (/obj/machinery/power/port_gen,/turf/simulated/floor,/area)
+"cf" = (/obj/machinery/light/small{dir = 1},/turf/simulated/floor,/area)
+"cg" = (/obj/structure/showcase,/turf/simulated/floor,/area)
+"ch" = (/obj/machinery/portable_atmospherics/canister,/turf/simulated/floor,/area)
+"ci" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor{icon_state = "platenew"},/area)
+"cj" = (/obj/structure/table,/obj/item/clothing/glasses/fluff/uzenwa_sissra_1,/obj/structure/window/basic{dir = 4},/obj/structure/window/basic{dir = 1},/turf/simulated/floor,/area)
+"ck" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt,/obj/item/weapon/legcuffs/beartrap,/obj/structure/window/basic{dir = 8},/obj/structure/window/basic{dir = 1},/turf/simulated/floor,/area)
+"cl" = (/obj/item/trash/sosjerky,/turf/simulated/floor{icon_state = "platenew"},/area)
+"cm" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{icon_state = "floorvent"; name = "vent-floor"},/area)
+"cn" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor,/area)
+"co" = (/obj/effect/landmark/start{name = "Captain"},/turf/simulated/floor,/area)
+"cp" = (/obj/effect/gibspawner/generic,/turf/simulated/floor,/area)
+"cq" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor,/area)
+"cr" = (/turf/simulated/floor{dir = 8; icon_state = "platenew1"},/area)
+"cs" = (/obj/structure/table,/obj/item/clothing/glasses/monocle,/obj/structure/window/basic{dir = 4},/turf/simulated/floor,/area)
+"ct" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small,/turf/simulated/floor,/area)
+"cu" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt,/obj/item/clothing/glasses/hud/health,/obj/structure/window/basic{dir = 8},/turf/simulated/floor,/area)
+"cv" = (/obj/structure/mopbucket,/turf/simulated/floor,/area)
+"cw" = (/obj/structure/reagent_dispensers/watertank,/turf/simulated/floor,/area)
+"cx" = (/obj/item/trash/cheesie,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor,/area)
+"cy" = (/obj/structure/rack,/turf/simulated/floor,/area)
+"cz" = (/obj/machinery/particle_accelerator/control_box,/turf/simulated/floor,/area)
+"cA" = (/obj/machinery/door/airlock/silver,/turf/simulated/floor,/area)
+"cB" = (/obj/effect/mine/stun,/turf/simulated/floor{icon_state = "platenew"},/area)
+"cC" = (/obj/structure/grille,/turf/simulated/floor{icon_state = "platenew"},/area)
+"cD" = (/obj/structure/grille{density = 0; icon_state = "brokengrille"},/obj/item/stack/rods,/turf/simulated/floor{icon_state = "platenew"},/area)
+"cE" = (/obj/item/trash/chips,/turf/simulated/floor{icon_state = "platenew"},/area)
+"cF" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{icon_state = "platenew"},/area)
+"cG" = (/obj/structure/barricade/wooden,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{icon_state = "platenew"},/area)
+"cH" = (/obj/machinery/light/spot{dir = 8},/turf/simulated/floor{icon_state = "darknew"},/area)
+"cI" = (/obj/structure/reagent_dispensers/beerkeg,/obj/machinery/light/small{dir = 1},/turf/simulated/floor{icon_state = "grimy"},/area)
+"cJ" = (/obj/structure/table/woodentable,/turf/simulated/floor{icon_state = "wood3"},/area)
+"cK" = (/obj/machinery/chem_dispenser/beer,/obj/structure/table/woodentable,/turf/simulated/floor{icon_state = "wood3"},/area)
+"cL" = (/obj/machinery/vending/boozeomat{req_access_txt = "0"},/turf/simulated/floor{icon_state = "wood3"},/area)
+"cM" = (/obj/effect/decal/cleanable/cobweb2,/turf/simulated/floor{icon_state = "wood3"},/area)
+"cN" = (/obj/effect/decal/cleanable/molten_item,/turf/simulated/floor{icon_state = "platenew"},/area)
+"cO" = (/obj/machinery/door/morgue{dir = 2},/turf/simulated/floor{icon_state = "grimy"},/area)
+"cP" = (/turf/simulated/floor{icon_state = "wood3"},/area)
+"cQ" = (/obj/structure/stool,/turf/simulated/floor{icon_state = "wood3"},/area)
+"cR" = (/obj/machinery/light/small{dir = 4},/turf/simulated/floor{icon_state = "wood3"},/area)
+"cS" = (/turf/simulated/floor{icon_state = "floornewbar"},/area)
+"cT" = (/obj/structure/stool/bed/chair/comfy/beige,/turf/simulated/floor{icon_state = "floornewbar"},/area)
+"cU" = (/obj/machinery/door/airlock/security,/turf/simulated/floor{icon_state = "floorgrime"},/area)
+"cV" = (/obj/effect/decal/cleanable/blood/oil,/turf/simulated/floor{icon_state = "floorgrime"},/area)
+"cW" = (/obj/structure/table,/turf/simulated/floor{icon_state = "floorgrime"},/area)
+"cX" = (/obj/structure/table/woodentable,/obj/item/weapon/reagent_containers/glass/rag,/turf/simulated/floor{icon_state = "wood3"},/area)
+"cY" = (/obj/structure/table,/obj/machinery/light/small{dir = 8},/turf/simulated/floor{icon_state = "floornewbar"},/area)
+"cZ" = (/obj/structure/table,/obj/item/device/taperecorder,/obj/item/device/camera/fluff/oldcamera,/turf/simulated/floor{icon_state = "floornewbar"},/area)
+"da" = (/obj/structure/table,/obj/item/clothing/head/det_hat,/turf/simulated/floor{icon_state = "floornewbar"},/area)
+"db" = (/obj/machinery/recharger/wallcharger{pixel_x = 32; tag = "x32"},/turf/simulated/floor{icon_state = "floornewbar"},/area)
+"dc" = (/obj/structure/stool/barstool2{dir = 1; pixel_y = 5},/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor{icon_state = "wood3"},/area)
+"dd" = (/obj/structure/stool/barstool2{dir = 1; pixel_y = 5},/turf/simulated/floor{icon_state = "wood3"},/area)
+"de" = (/obj/machinery/door/morgue{dir = 2},/turf/simulated/floor{icon_state = "wood3"},/area)
+"df" = (/obj/structure/stool/bed/chair{dir = 1},/turf/simulated/floor{icon_state = "floornewbar"},/area)
+"dg" = (/obj/machinery/door/airlock/highsecurity,/turf/simulated/floor/plating,/area)
+"dh" = (/obj/item/toy/crayon/green,/turf/simulated/floor{icon_state = "wood3"},/area)
+"di" = (/obj/effect/decal/cleanable/ash,/turf/simulated/floor{icon_state = "wood3"},/area)
+"dj" = (/obj/machinery/door/airlock/security,/turf/simulated/floor{icon_state = "floornewbar"},/area)
+"dk" = (/obj/structure/coatrack,/turf/simulated/floor{icon_state = "floornewbar"},/area)
+"dl" = (/obj/machinery/light/small{dir = 1},/turf/simulated/floor/plating,/area)
+"dm" = (/turf/simulated/floor/plating,/area)
+"dn" = (/obj/structure/coatrack,/turf/simulated/floor{icon_state = "wood3"},/area)
+"do" = (/obj/machinery/computer/arcade,/turf/simulated/floor{icon_state = "wood3"},/area)
+"dp" = (/obj/machinery/light/small,/turf/simulated/floor{icon_state = "wood3"},/area)
+"dq" = (/obj/structure/device/piano,/turf/simulated/floor{icon_state = "wood3"},/area)
+"dr" = (/obj/structure/stool/barstool,/turf/simulated/floor{icon_state = "wood3"},/area)
+"ds" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/vomit,/turf/simulated/floor{icon_state = "platenew"},/area)
+"dt" = (/obj/effect/landmark{name = "JoinLate"},/turf/simulated/floor/plating,/area)
+"du" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating,/area)
+"dv" = (/turf/simulated/wall,/area/centcom/control)
+"dw" = (/obj/machinery/atmospherics/pipe/simple{dir = 6},/turf/simulated/floor{icon_state = "dark"},/area/centcom/control)
+"dx" = (/obj/machinery/atmospherics/pipe/manifold{dir = 1},/turf/simulated/floor{icon_state = "dark"},/area/centcom/control)
+"dy" = (/obj/machinery/atmospherics/pipe/simple{dir = 4},/turf/simulated/floor{icon_state = "dark"},/area/centcom/control)
+"dz" = (/obj/machinery/atmospherics/pipe/simple{dir = 10; icon_state = "intact-f"; initialize_directions = 10},/turf/simulated/floor{icon_state = "dark"},/area/centcom/control)
+"dA" = (/obj/machinery/atmospherics/pipe/simple,/obj/structure/table,/obj/item/device/multitool,/turf/simulated/floor{icon_state = "dark"},/area/centcom/control)
+"dB" = (/obj/machinery/atmospherics/unary/cold_sink/freezer{current_temperature = 80; dir = 1; on = 1},/turf/simulated/floor{icon_state = "dark"},/area/centcom/control)
+"dC" = (/turf/simulated/floor{icon_state = "dark"},/area/centcom/control)
+"dD" = (/obj/machinery/atmospherics/pipe/simple,/turf/simulated/floor{icon_state = "dark"},/area/centcom/control)
+"dE" = (/obj/machinery/door/firedoor/border_only{dir = 8; name = "Firelock West"},/obj/machinery/door/window/eastleft{req_access_txt = "61"},/obj/machinery/door/window/westleft{req_access_txt = "61"},/turf/simulated/floor{icon_state = "dark"},/area/centcom/control)
+"dF" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/machinery/atmospherics/pipe/simple,/turf/simulated/floor/plating,/area/centcom/control)
+"dG" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/plating,/area/centcom/control)
+"dH" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/machinery/atmospherics/pipe/simple{dir = 5; icon_state = "intact-f"},/turf/simulated/floor/plating,/area/centcom/control)
+"dI" = (/obj/machinery/atmospherics/pipe/simple{dir = 10; icon_state = "intact-f"; initialize_directions = 10},/turf/simulated/wall,/area/centcom/control)
+"dJ" = (/obj/machinery/door/airlock/maintenance_hatch{name = "Telecoms Server Access"; req_access_txt = "61"},/turf/simulated/floor{icon_state = "dark"},/area/centcom/control)
+"dK" = (/turf/simulated/floor/bluegrid{name = "Mainframe Base"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dL" = (/obj/machinery/atmospherics/pipe/simple,/turf/simulated/floor/bluegrid{name = "Mainframe Base"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dM" = (/turf/simulated/floor/bluegrid{icon_state = "dark"; name = "Mainframe Floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dN" = (/obj/machinery/atmospherics/pipe/simple,/turf/simulated/floor/bluegrid{icon_state = "dark"; name = "Mainframe Floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dO" = (/obj/machinery/telecomms/server/presets/supply,/turf/simulated/floor{dir = 1; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dP" = (/obj/machinery/telecomms/server/presets/common,/turf/simulated/floor{dir = 4; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dQ" = (/obj/machinery/telecomms/server/presets/engineering,/turf/simulated/floor{dir = 4; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dR" = (/obj/machinery/telecomms/broadcaster/preset_left,/turf/simulated/floor{dir = 1; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dS" = (/obj/machinery/telecomms/broadcaster/preset_right,/turf/simulated/floor{dir = 4; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dT" = (/obj/machinery/telecomms/processor/preset_two,/turf/simulated/floor{dir = 1; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dU" = (/obj/machinery/telecomms/bus/preset_two,/turf/simulated/floor{dir = 1; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dV" = (/obj/machinery/telecomms/relay/preset/telecomms,/turf/simulated/floor/bluegrid{icon_state = "dark"; name = "Mainframe Floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dW" = (/obj/machinery/telecomms/hub/preset,/turf/simulated/floor/bluegrid{name = "Mainframe Base"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dX" = (/obj/machinery/atmospherics/pipe/simple,/obj/machinery/telecomms/relay/preset/station,/turf/simulated/floor/bluegrid{icon_state = "dark"; name = "Mainframe Floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dY" = (/obj/machinery/telecomms/processor/preset_four,/turf/simulated/floor{dir = 4; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"dZ" = (/obj/machinery/telecomms/bus/preset_four,/turf/simulated/floor{dir = 4; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"ea" = (/obj/machinery/telecomms/bus/preset_one,/turf/simulated/floor{dir = 1; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"eb" = (/obj/machinery/telecomms/processor/preset_one,/turf/simulated/floor{dir = 1; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"ec" = (/obj/machinery/telecomms/receiver/preset_left,/turf/simulated/floor{dir = 1; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"ed" = (/obj/machinery/telecomms/receiver/preset_right,/turf/simulated/floor{dir = 4; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"ee" = (/obj/machinery/telecomms/bus/preset_three,/turf/simulated/floor{dir = 4; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"ef" = (/obj/machinery/telecomms/processor/preset_three,/turf/simulated/floor{dir = 4; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"eg" = (/obj/machinery/telecomms/server/presets/science,/turf/simulated/floor{dir = 1; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"eh" = (/obj/machinery/telecomms/server/presets/medical,/turf/simulated/floor{dir = 1; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"ei" = (/obj/machinery/atmospherics/pipe/simple{dir = 6},/turf/simulated/floor/bluegrid{icon_state = "dark"; name = "Mainframe Floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"ej" = (/obj/machinery/atmospherics/pipe/simple{dir = 9; icon_state = "intact-f"},/turf/simulated/floor/bluegrid{icon_state = "dark"; name = "Mainframe Floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"ek" = (/obj/machinery/telecomms/server/presets/command,/turf/simulated/floor{dir = 4; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"el" = (/obj/machinery/telecomms/server/presets/security,/turf/simulated/floor{dir = 4; icon_state = "vault"; name = "Mainframe floor"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"em" = (/obj/machinery/atmospherics/unary/vent_pump{dir = 1; external_pressure_bound = 140; on = 1; pressure_checks = 0},/turf/simulated/floor/bluegrid{name = "Mainframe Base"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"en" = (/obj/machinery/atmospherics/unary/vent_pump{dir = 1; external_pressure_bound = 120; icon_state = "in"; initialize_directions = 1; internal_pressure_bound = 4000; on = 1; pressure_checks = 2; pump_direction = 0},/turf/simulated/floor/bluegrid{name = "Mainframe Base"; nitrogen = 100; oxygen = 0; temperature = 80},/area/centcom/control)
+"eo" = (/turf/unsimulated/wall,/area/start)
+"ep" = (/turf/simulated/floor/plating/asteroid,/area/start)
+"eq" = (/obj/effect/landmark/start,/turf/unsimulated/floor,/area/start)
+"er" = (/turf/unsimulated/wall/splashscreen,/area/start)
+
+(1,1,1) = {"
+aaabacacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacacabaaaaaa
+aaadaeaeadadadadadadadadadadadadadadadadadadadadafagadadadaa
+aaadaeaeahaiajakalakakaiamanamaiaoapaqaiarasataiagagauavadaa
+aaadaeaeawaiakaxayazaAaiamamamaiaBaCaDaiaEaFaGaiagaeawavadaa
+aaadaeaeawaiaHakayaIaJaiamamamaiaKaLaMaiaNaOaiaiaeaeawavadaa
+aaadaeaeawaiaiaPaiaQaQaiaRaSaRaiaiaTaiaiavavaUaVaeaeawaWadaa
+aaadagaeaXaYaZaZaZaZbaaZbbbbbbaZaZaZaZaZaZaZbbbcaeaeawavadaa
+aaadagagaeaeaeagaeaeaeaeaeagaeaeaeaeaeaeaeagagagaeaebdavadaa
+aaadagaeaeagagagagaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeawavadaa
+aaadaeaebeaRaRaRaRaRaRaRaRaRaRaRaRaRbfaRaRaRaRaRaRaRbgavadaa
+aaadaeaeawaiaiaiaiaiaiavaiaiaibhaiaiaiavaiaiaiaibiaiaiaiadaa
+aaadaeaeawaibjbkblbmaibnaibobpbqaBbraiavbsbtbububtaibvbwadaa
+aaadaeaebxaibmbmbmbyaibzaibAbBaBaBbCaiavaibDbtbEbtbFbGbHadaa
+aaadaeaeawaibIbJbKbLaiavaibMbNbOaBbPaiavaiaiaiaiaiaiaiaiadaa
+aaadaeaeawbQbRbRaBaBaiavaibSbSaBbTbUaibVavavbzavavavavavadaa
+aaadaeaeawbQbRaBaBbWaiavaibXbYbZaiaiaiaiaiaiaiaiaiaiavaiadaa
+aaadaeagcaaiaBcbaBaBaiavaiaiaiaiaicccdcecfcgaBaBchaiavciadaa
+aaadagagawaiaicjaBckaiavclaUaUaUaiaBcmcncocpcqaBchaiavavadaa
+aaadaeagaXcraicsctcuaiavaUaUaiavaicvcwcxaBcycyaBczaiavavadaa
+aaadaeaeaebdaiaiaiaiaiaiaiaiaiavaiaiaiaicAaiaiaiaiaiavaiadaa
+aaadaeaeaeawavbzavavavcBavavavavavavcCavavavaUbzavavavaUadaa
+aaadaeaeaeawaiaiaiaiaiaiaiaiaiavavavcDcEavaUcFcGavavaUaUadaa
+aaadcHaeaeauaicIaicJcKcJcLcMaiavcNaiaiaiaiaiaiaiaiaiaiaiadaa
+aaadaeaeagauaibmcOcPcPcQcPcRaiavavaicScTcScScUbRbRcVbRcWadaa
+aaadaeaeaeauaiaiaicXcJcJcJcPaiavavaicYcZdadbaibRbRbRbRcWadaa
+aaadaeaeaeawaicPcPdcdddcddcPdeavavaicSdfcScSaiaidgaiaiaiadaa
+aaadaeaeaeawdecPcPcPdhcPdicPaiaUavdjcScScSdkaidldmdmaiamadaa
+aaadagaeaeawaidncPdodpcPdqdraidsaUaicScScScSaidmdtdmduamadaa
+aaadafagadadadadadadadadadadadadadadadadadadadadadadadadadaa
+aaabacacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,2) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaadadadadadadadadadadadadadadadadadadadadadadadadadadadadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaa
+aaadadadadadadadadadadadadadadadadadadadadadadadadadadadadaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,3) = {"
+aaaaaaaaaadvdvdvdvdvdvdvaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaadvdwdxdydydzdvdvdvaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaadvdAdBdCdCdDdEdCdvaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aadvdvdvdvdvdFdGdGdGdHdIdJdvdvdvaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aadvdKdKdKdKdLdKdKdKdKdLdMdKdKdvaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aadvdKdMdMdMdNdMdMdMdMdNdMdMdKdvaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aadvdKdOdMdMdNdMdKdMdMdNdPdQdKdvaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aadvdKdMdMdMdNdRdKdSdMdNdMdMdKdvaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aadvdKdTdUdVdLdKdWdKdKdXdYdZdKdvaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aadvdKeaebdMdNecdKeddMdNeeefdKdvaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aadvdKdMdMdMdNdMdKdMdMdNdMdMdKdvaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aadvdKegeheiejdMdMdMdMdNekeldKdvaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aadvdKdKdKemdKdKdKdKdKendKdKdKdvaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aadvdvdvdvdvdvdvdvdvdvdvdvdvdvdvaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoeoeoeoeoeoeoeoeoeoeoeoeoeoeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoeoepepepepepepepepepepepeoeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoepepepepepepepepepepepepepeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoepepepepepepepepepepepepepeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoepepepepepepepepepepepepepeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoepepepepepepepepepepepepepeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoepepepepepeoeoeoepepepepepeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoepepepepepeoeqeoepepepepepeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoepepepepepeoeoeoepepepepepeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoepepepepepepepepepepepepepeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoepepepepepepepepepepepepepeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoepepepepepepepepepepepepepeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoepepepepepepepepepepepepepeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaeoeoepepepepepepepepepepepeoeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaereoeoeoeoeoeoeoeoeoeoeoeoeoeoaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
